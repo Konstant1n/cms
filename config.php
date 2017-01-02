@@ -1,6 +1,6 @@
 <?php
 ini_set( "display_errors", true );
-date_default_timezone_set( "Europe/Kiev" );  // http://www.php.net/manual/en/timezones.php
+date_default_timezone_set( "Europe/Kiev" );
 define( "DB_DSN", "mysql:host=localhost;dbname=cms" );
 define( "DB_USERNAME", "cms" );
 define( "DB_PASSWORD", "cms" );
